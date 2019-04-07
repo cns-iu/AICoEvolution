@@ -8,6 +8,10 @@ A stakeholder needs analysis (SNA) was employed in order to identify insight nee
 
 - Link to the User Study online survey - link https://iu.co1.qualtrics.com/jfe/form/SV_6h4hvTKlnVW410h
 
+## Data Provenance
+
+``Web of Science``
+
 ## Keyword Extraction - MaxMatch
 
 Using results from a linguistic algorithm comparison detailed in Börner et al. (2018), the MaxMatch algorithm was used to identify terms in NSF funding awards that match the unique WOS Author Keywords specific to the three topic areas. Characters like [ ] { } and” were removed.   
