@@ -1,4 +1,4 @@
-# AiCoEvolution
+# AICoEvolution
 
 ## Stakeholder Needs Analysis
 
