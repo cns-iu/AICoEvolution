@@ -4,7 +4,7 @@
 
 A stakeholder needs analysis (SNA) was employed in order to identify insight needs and use cases for using indicators and visualizations of emergence (and indirectly convergence) in daily decision making environments.
 
-User study was employed to examine the visualizations on terns of utility and readability.
+A user study was employed to examine the visualizations on terns of utility and readability.
 
 - Link to the User Needs Analysis online survey - https://iu.co1.qualtrics.com/jfe/form/SV_9HzcwI1BNTy6gM5
 
