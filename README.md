@@ -7,16 +7,16 @@ A stakeholder needs analysis (SNA) was employed in order to identify insight nee
 A user study was employed to examine the visualizations on terns of utility and readability.
 
 - User Needs Analysis 
-   - online survey: https://iu.co1.qualtrics.com/jfe/form/SV_9HzcwI1BNTy6gM5
+   - [online survey]{https://iu.co1.qualtrics.com/jfe/form/SV_9HzcwI1BNTy6gM5}
    - survey form: /User-Study/User Need Analysis Instrument.pdf
 
 - User Study 
-   - [online survey link:](https://iu.co1.qualtrics.com/jfe/form/SV_6h4hvTKlnVW410h)
+   - [online survey link](https://iu.co1.qualtrics.com/jfe/form/SV_6h4hvTKlnVW410h)
    - survey form: /User-Study/User Study Analysis Instrument.pdf
 
 ## Data
 
-Data Statistics:
+Data Statistics: /code/datset-crane-stats.ipynb
 
 ## Keyword Extraction - MaxMatch
 
