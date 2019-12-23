@@ -16,7 +16,9 @@ A user study was employed to examine the visualizations on terns of utility and 
 
 ## Data
 
-Data Statistics: /code/datset-crane-stats.ipynb
+Data Statistics: /code/dataset-crane-stats.ipynb
+
+Figure 1: code folder - Figure 1A, Figire 1B
 
 ## Keyword Extraction - MaxMatch
 
