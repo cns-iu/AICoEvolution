@@ -6,14 +6,24 @@ A stakeholder needs analysis (SNA) was employed in order to identify insight nee
 
 A user study was employed to examine the visualizations on terns of utility and readability.
 
-- Link to the User Needs Analysis online survey - https://iu.co1.qualtrics.com/jfe/form/SV_9HzcwI1BNTy6gM5
+- User Needs Analysis 
+   - online survey: https://iu.co1.qualtrics.com/jfe/form/SV_9HzcwI1BNTy6gM5
+   - survey form: /User-Study/User Need Analysis Instrument.pdf
 
-- Link to the User Study online survey - link https://iu.co1.qualtrics.com/jfe/form/SV_6h4hvTKlnVW410h
+- User Study 
+   - [online survey link:](https://iu.co1.qualtrics.com/jfe/form/SV_6h4hvTKlnVW410h)
+   - survey form: /User-Study/User Study Analysis Instrument.pdf
 
+## Data
+
+Data Statistics:
 
 ## Keyword Extraction - MaxMatch
 
 Using results from a linguistic algorithm comparison detailed in Börner et al. (2018), the MaxMatch algorithm (Wong & Chan, 1996)was used to identify terms in NSF funding awards that match the unique WOS Author Keywords specific to the three topic areas. Characters like [ ] { } and” were removed. See Appendix for extracted keywords disambiguation and normalization.
+
+Maxmatch code: /Code/Maxmatch in Python.ipynb
+
 
 
 ## Network Layout Algorithms
