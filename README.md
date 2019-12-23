@@ -7,7 +7,7 @@ A stakeholder needs analysis (SNA) was employed in order to identify insight nee
 A user study was employed to examine the visualizations on terns of utility and readability.
 
 - User Needs Analysis 
-   - [online survey]{https://iu.co1.qualtrics.com/jfe/form/SV_9HzcwI1BNTy6gM5}
+   - [online survey](https://iu.co1.qualtrics.com/jfe/form/SV_9HzcwI1BNTy6gM5)
    - survey form: /User-Study/User Need Analysis Instrument.pdf
 
 - User Study 
