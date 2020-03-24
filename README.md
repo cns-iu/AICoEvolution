@@ -24,17 +24,17 @@ We extracted data consisting of two columns, WOS_id and WOS_ref from Web of Scie
 
 ii.	Web of Science Online Portal:
 
-We used Institute of Scientific Information (ISI) publication data from Web of Science Online Portal to get the year and other relevant descriptions of papers. ISI files are converted to CSV using Make-a-Vis available at https://make-a-vis.netlify.com/
+We used Institute of Scientific Information (ISI) publication data from Web of Science Online Portal to get the year and other relevant descriptions of papers. ISI files are converted to CSV using Make-a-Vis available at [https://make-a-vis.netlify.com/](https://make-a-vis.netlify.com/)
 
 iii. NSF Award Portal
 
-We used NSF award portal to extract active NSF award for the period of 1998-2017 - (https://www.nsf.gov/awardsearch/)[https://www.nsf.gov/awardsearch/]
+We used NSF award portal to extract active NSF award for the period of 1998-2017 - [https://www.nsf.gov/awardsearch/](https://www.nsf.gov/awardsearch/)
 
 ## Keyword Extraction - MaxMatch
 
 Using results from a linguistic algorithm comparison detailed in Börner et al. (2018), the MaxMatch algorithm (Wong & Chan, 1996)was used to identify terms in NSF funding awards that match the unique WOS Author Keywords specific to the three topic areas. Characters like [ ] { } and” were removed. See Appendix for extracted keywords disambiguation and normalization.
 
-Maxmatch Algorithm is describe in the repository for the paper "Skill Discrepancies Between Research, Education, and Jobs Reveal the Critical Need to Supply Soft Skills for the Data Economy" (https://github.com/cns-iu/cjobs)[https://github.com/cns-iu/cjobs].
+Maxmatch Algorithm is describe in the repository for the paper "Skill Discrepancies Between Research, Education, and Jobs Reveal the Critical Need to Supply Soft Skills for the Data Economy" [https://github.com/cns-iu/cjobs](https://github.com/cns-iu/cjobs).
 
 ## Network Layout Algorithms
 
