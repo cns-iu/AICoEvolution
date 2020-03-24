@@ -18,15 +18,19 @@ A user study was employed to examine the visualizations on terns of utility and 
 
 Data Statistics: /code/dataset-crane-stats.ipynb
 
-Figure 1: code folder - Figure 1A, Figire 1B
+i.	Web of Science database:
+
+We extracted data consisting of two columns, WOS_id and WOS_ref from Web of Science database. Each row represents the source and target of references. WOS_id and WOS_ref consist of unique identification number assigned to a paper.  We extracted three csv files, corresponding to each field of interest (AI, IoT and Robotics). See WoS relational database schema - Link: https://cadre.iu.edu/resources/documentation/wos_core_erd%20(1).pdf
+
+ii.	Web of Science Online Portal:
+
+We used Institute of Scientific Information (ISI) publication data from Web of Science Online Portal to get the year and other relevant descriptions of papers. ISI files are converted to CSV using Make-a-Vis available at https://make-a-vis.netlify.com/
 
 ## Keyword Extraction - MaxMatch
 
 Using results from a linguistic algorithm comparison detailed in Börner et al. (2018), the MaxMatch algorithm (Wong & Chan, 1996)was used to identify terms in NSF funding awards that match the unique WOS Author Keywords specific to the three topic areas. Characters like [ ] { } and” were removed. See Appendix for extracted keywords disambiguation and normalization.
 
-Maxmatch code: /Code/Maxmatch in Python.ipynb
-
-
+Maxmatch Algorithm is describe in the repository for the paper "Skill Discrepancies Between Research, Education, and Jobs Reveal the Critical Need to Supply Soft Skills for the Data Economy" (https://github.com/cns-iu/cjobs)[https://github.com/cns-iu/cjobs].
 
 ## Network Layout Algorithms
 
@@ -34,6 +38,8 @@ Gephi (Version 0.9.2) (Bastian, Heymann, & Jacomy, 2009) was used to compute dat
 
 -	*ForceAtlas2* was used to layout the Co-Author Network figure
 -	*GeoLayout* was used to create 1) the Co-Author network overlaid on US map with mercator basemap and the Temporal Convergence figure using x-y coordinates to display nodes. 
+
+Data processing is describe in Workflow CRANE (see Appendix folder).
 
 ## Burst Detection
 
