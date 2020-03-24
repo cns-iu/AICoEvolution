@@ -26,6 +26,10 @@ ii.	Web of Science Online Portal:
 
 We used Institute of Scientific Information (ISI) publication data from Web of Science Online Portal to get the year and other relevant descriptions of papers. ISI files are converted to CSV using Make-a-Vis available at https://make-a-vis.netlify.com/
 
+iii. NSF Award Portal
+
+We used NSF award portal to extract active NSF award for the period of 1998-2017 - (https://www.nsf.gov/awardsearch/)[https://www.nsf.gov/awardsearch/]
+
 ## Keyword Extraction - MaxMatch
 
 Using results from a linguistic algorithm comparison detailed in Börner et al. (2018), the MaxMatch algorithm (Wong & Chan, 1996)was used to identify terms in NSF funding awards that match the unique WOS Author Keywords specific to the three topic areas. Characters like [ ] { } and” were removed. See Appendix for extracted keywords disambiguation and normalization.
