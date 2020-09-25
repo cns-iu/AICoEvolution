@@ -48,4 +48,10 @@ Data processing is described in Workflow CRANE (see Appendix folder).
 ## Burst Detection
 
 Burst Detection uses Kleinberg's algorithm available in Sci2 (Sci2 Team, 2009). See the burst visualization code in Code directory.
+
+## Convergence
+
+The Convergence Network is described in Crane Workflow (see Appendix) and data convertion from WoS ids and WoS references into a 2D network is performed using the convergence code (see code directory).
+
+
  
